@@ -1,0 +1,22 @@
+{
+  "name": "ohemligt",
+  "version": "1.0.0",
+  "description": "A program for taking one file and deciphering it with given password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linus Jäderlund",
+  "license": "MIT",
+  "bin": {
+    "ohemligt": "./bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linusjaderlund/ohemligt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linusjaderlund/ohemligt/issues"
+  },
+  "homepage": "https://github.com/linusjaderlund/ohemligt#readme"
+}
